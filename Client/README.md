@@ -1,4 +1,5 @@
-# Urban Estates Real Estate Website
+# Urban Estates
+A Real Estate Website
 
 ## Introduction
 Discover your dream property with Urban Estates. From cozy suburban homes to luxurious penthouses, we offer a diverse range of listings to suit every taste and budget.
