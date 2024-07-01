@@ -1,8 +1,7 @@
 # Urban Estates
 - ## Overview
 A Real Estate Website
-#### Live Site
-[Urban Estates](https://m-52-5-auth.web.app/)
+#### Live Site: [Urban Estates](https://m-52-5-auth.web.app/)
 #### Admin Credentials
 - **Username:** admin@gmail.com
 - **Password:** #Aaaaa
