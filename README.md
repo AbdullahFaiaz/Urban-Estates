@@ -20,7 +20,6 @@ A Real Estate Website
   <li>Admins can advertise properties in the advertised property section of the homepage.</li>
   <li>Users can sort and search properties on the "All Properties" page.</li>
   <li>Users can see the latest reviews and agent profiles on the homepage.</li>
-  <li></li>
 </ol>
 
 - ### Technologies Used:
